@@ -1,2 +1,2 @@
-groq
+groq-sdk
 streamlit
